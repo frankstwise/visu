@@ -1,0 +1,18 @@
+how to add ssh key to Github
+
+go to Git bash 
+
+1- generate a SSH key:
+
+ssh-keygen -t rsa -b 4096 -C "<your_email>"
+
+2- copy the public key to clipboard (similar to ctrl+c)
+
+clip < ~/.ssh/id_rsa.pub
+
+3- to got Github
+
+4 - settings > SSH key > Add a new SSH key > past (ctrl + v)
+
+
+
