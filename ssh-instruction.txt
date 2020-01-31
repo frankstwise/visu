@@ -1,4 +1,4 @@
-how to add ssh key to Github
+ehow to add ssh key to Github
 
 go to Git bash 
 
